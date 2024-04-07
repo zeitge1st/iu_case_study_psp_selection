@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/938574835984629569/531b0bf1327e451db48c80aedebbf4a8/artifacts
+deleted_time: 1712510332167
+end_time: 1712506992068
+entry_point_name: ''
+experiment_id: '938574835984629569'
+lifecycle_stage: deleted
+run_id: 531b0bf1327e451db48c80aedebbf4a8
+run_name: 2024-04-07_Baseline model stratified
+run_uuid: 531b0bf1327e451db48c80aedebbf4a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712506991665
+status: 4
+tags: []
+user_id: czAdmin

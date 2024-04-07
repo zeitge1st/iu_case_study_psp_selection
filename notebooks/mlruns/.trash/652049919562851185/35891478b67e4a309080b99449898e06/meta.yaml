@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/652049919562851185/35891478b67e4a309080b99449898e06/artifacts
+deleted_time: 1712296011600
+end_time: 1712252306459
+entry_point_name: ''
+experiment_id: '652049919562851185'
+lifecycle_stage: deleted
+run_id: 35891478b67e4a309080b99449898e06
+run_name: orderly-robin-254
+run_uuid: 35891478b67e4a309080b99449898e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712251276826
+status: 4
+tags: []
+user_id: czAdmin

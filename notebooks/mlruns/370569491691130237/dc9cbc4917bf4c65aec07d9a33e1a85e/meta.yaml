@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/370569491691130237/dc9cbc4917bf4c65aec07d9a33e1a85e/artifacts
+end_time: 1712511282520
+entry_point_name: ''
+experiment_id: '370569491691130237'
+lifecycle_stage: active
+run_id: dc9cbc4917bf4c65aec07d9a33e1a85e
+run_name: test
+run_uuid: dc9cbc4917bf4c65aec07d9a33e1a85e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712511281917
+status: 4
+tags: []
+user_id: czAdmin
