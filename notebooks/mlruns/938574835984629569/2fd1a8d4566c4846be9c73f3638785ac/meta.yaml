@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/938574835984629569/2fd1a8d4566c4846be9c73f3638785ac/artifacts
+deleted_time: 1712641817984
 end_time: 1712511106644
 entry_point_name: ''
 experiment_id: '938574835984629569'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2fd1a8d4566c4846be9c73f3638785ac
 run_name: 2024-04-07_Naive Bayes
 run_uuid: 2fd1a8d4566c4846be9c73f3638785ac

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/938574835984629569/b3685e491aa644a8b122035ebc94fb2d/artifacts
+deleted_time: 1712641817946
 end_time: 1712511110422
 entry_point_name: ''
 experiment_id: '938574835984629569'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b3685e491aa644a8b122035ebc94fb2d
 run_name: 2024-04-07_Linear SVM
 run_uuid: b3685e491aa644a8b122035ebc94fb2d

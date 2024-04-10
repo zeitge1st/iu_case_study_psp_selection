@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/938574835984629569/987d30e4610a4b7e954e1b7d3a1d2227/artifacts
+deleted_time: 1712641817919
 end_time: 1712511184762
 entry_point_name: ''
 experiment_id: '938574835984629569'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 987d30e4610a4b7e954e1b7d3a1d2227
 run_name: 2024-04-07_Baseline model stratified
 run_uuid: 987d30e4610a4b7e954e1b7d3a1d2227
