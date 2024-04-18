@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/359149084658449485
+creation_time: 1712997301857
+experiment_id: '359149084658449485'
+last_update_time: 1713419531329
+lifecycle_stage: deleted
+name: PSP_hyperparameter tuning
+tags: {}

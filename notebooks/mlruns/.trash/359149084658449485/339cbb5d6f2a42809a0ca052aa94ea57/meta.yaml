@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/359149084658449485/339cbb5d6f2a42809a0ca052aa94ea57/artifacts
+deleted_time: 1713419396069
+end_time: 1713099669923
+entry_point_name: ''
+experiment_id: '359149084658449485'
+lifecycle_stage: deleted
+run_id: 339cbb5d6f2a42809a0ca052aa94ea57
+run_name: 2024-04-14_Linear SVM_BestPredictor
+run_uuid: 339cbb5d6f2a42809a0ca052aa94ea57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713099656742
+status: 3
+tags: []
+user_id: czAdmin

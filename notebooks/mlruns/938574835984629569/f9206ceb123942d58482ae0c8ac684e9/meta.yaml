@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/938574835984629569/f9206ceb123942d58482ae0c8ac684e9/artifacts
+deleted_time: 1712902359080
+end_time: 1712900504866
+entry_point_name: ''
+experiment_id: '938574835984629569'
+lifecycle_stage: deleted
+run_id: f9206ceb123942d58482ae0c8ac684e9
+run_name: 2024-04-12_KNN
+run_uuid: f9206ceb123942d58482ae0c8ac684e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712900503253
+status: 3
+tags: []
+user_id: czAdmin

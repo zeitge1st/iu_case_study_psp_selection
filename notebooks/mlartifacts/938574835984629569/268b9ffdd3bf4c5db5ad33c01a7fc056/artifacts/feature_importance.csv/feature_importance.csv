@@ -1,0 +1,17 @@
+Feature,Importance
+ordinalencoder__x_enc_psp_Goldcard,0.7511454470191713
+minmaxscaler__x_3d_secured,0.40449160990306754
+minmaxscaler__x_tmsp_wd_sin,0.08152146162549484
+minmaxscaler__x_tmsp_wd_cos,-0.017513959862852983
+ordinalencoder__x_enc_card_Diners,-0.05174893327048361
+ordinalencoder__x_enc_country_Germany,-0.12362873872728126
+ordinalencoder__x_enc_country_Austria,-0.1296215340891478
+ordinalencoder__x_enc_country_Switzerland,-0.13391757443809735
+ordinalencoder__x_enc_card_Visa,-0.14143215812436402
+minmaxscaler__x_tmsp_h_sin,-0.15779702017265604
+ordinalencoder__x_enc_psp_Moneycard,-0.19333381714274198
+ordinalencoder__x_enc_card_Master,-0.19398675585968814
+minmaxscaler__x_tmsp_h_cos,-0.21971233706671978
+ordinalencoder__x_enc_psp_UK_Card,-0.3411141156165271
+ordinalencoder__x_enc_psp_Simplecard,-0.6038653615144323
+minmaxscaler__x_amount,-1.1879334410177858

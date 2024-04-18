@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/359149084658449485/d22e9376300a4f3590b4d8c96c049057/artifacts
+deleted_time: 1713098494713
+end_time: 1713081070458
+entry_point_name: ''
+experiment_id: '359149084658449485'
+lifecycle_stage: deleted
+run_id: d22e9376300a4f3590b4d8c96c049057
+run_name: 2024-04-14_KNN_BestPredictor
+run_uuid: d22e9376300a4f3590b4d8c96c049057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713080371594
+status: 3
+tags: []
+user_id: czAdmin

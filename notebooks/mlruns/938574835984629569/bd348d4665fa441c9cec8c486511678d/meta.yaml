@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/938574835984629569/bd348d4665fa441c9cec8c486511678d/artifacts
+end_time: 1713441148600
+entry_point_name: ''
+experiment_id: '938574835984629569'
+lifecycle_stage: active
+run_id: bd348d4665fa441c9cec8c486511678d
+run_name: 2024-04-18_Decision Tree
+run_uuid: bd348d4665fa441c9cec8c486511678d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713441147700
+status: 3
+tags: []
+user_id: czAdmin

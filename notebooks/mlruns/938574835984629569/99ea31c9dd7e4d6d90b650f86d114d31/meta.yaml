@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/938574835984629569/99ea31c9dd7e4d6d90b650f86d114d31/artifacts
+deleted_time: 1712902359079
+end_time: 1712900503156
+entry_point_name: ''
+experiment_id: '938574835984629569'
+lifecycle_stage: deleted
+run_id: 99ea31c9dd7e4d6d90b650f86d114d31
+run_name: 2024-04-12_Naive Bayes
+run_uuid: 99ea31c9dd7e4d6d90b650f86d114d31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712900502104
+status: 3
+tags: []
+user_id: czAdmin

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/359149084658449485/5cb0307ac27e4a9c85bf06a3144f1961/artifacts
+deleted_time: 1713002979696
+end_time: 1713001492417
+entry_point_name: ''
+experiment_id: '359149084658449485'
+lifecycle_stage: deleted
+run_id: 5cb0307ac27e4a9c85bf06a3144f1961
+run_name: 2024-04-13_Logistic Regression_BestPredictor
+run_uuid: 5cb0307ac27e4a9c85bf06a3144f1961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713001480401
+status: 3
+tags: []
+user_id: czAdmin

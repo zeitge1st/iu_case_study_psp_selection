@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/938574835984629569/07bd015c0b4b472fbe0cfa0d951934dd/artifacts
+deleted_time: 1713419407105
+end_time: 1712997206671
+entry_point_name: ''
+experiment_id: '938574835984629569'
+lifecycle_stage: deleted
+run_id: 07bd015c0b4b472fbe0cfa0d951934dd
+run_name: 2024-04-13_SVC
+run_uuid: 07bd015c0b4b472fbe0cfa0d951934dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712996981228
+status: 3
+tags: []
+user_id: czAdmin

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/359149084658449485/0b619467a5aa4331b12264ffc870106a/artifacts
+deleted_time: 1713104422288
+end_time: 1713103362380
+entry_point_name: ''
+experiment_id: '359149084658449485'
+lifecycle_stage: deleted
+run_id: 0b619467a5aa4331b12264ffc870106a
+run_name: 2024-04-14_Gradient Boosting_BestPredictor
+run_uuid: 0b619467a5aa4331b12264ffc870106a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713103319111
+status: 4
+tags: []
+user_id: czAdmin

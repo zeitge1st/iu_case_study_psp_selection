@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/938574835984629569/89214bfde5bb4901928b66215cefb496/artifacts
+deleted_time: 1712900488586
+end_time: 1712900159380
+entry_point_name: ''
+experiment_id: '938574835984629569'
+lifecycle_stage: deleted
+run_id: 89214bfde5bb4901928b66215cefb496
+run_name: 2024-04-12_SVCRandom Forest
+run_uuid: 89214bfde5bb4901928b66215cefb496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712899974856
+status: 3
+tags: []
+user_id: czAdmin

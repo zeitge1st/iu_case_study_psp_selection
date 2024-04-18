@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/512761655805524048/7f972c0a85a145ffb4e91e3fc0f443f3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '512761655805524048'
+lifecycle_stage: active
+run_id: 7f972c0a85a145ffb4e91e3fc0f443f3
+run_name: 2024-04-18_SVC_BestPredictor
+run_uuid: 7f972c0a85a145ffb4e91e3fc0f443f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713444272081
+status: 1
+tags: []
+user_id: czAdmin
